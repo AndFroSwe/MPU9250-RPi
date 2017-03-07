@@ -1,0 +1,217 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCEL_CONFIG	MPU9250.h	67;"	d
+ACCEL_CONFIG2	MPU9250.h	68;"	d
+ACCEL_XOUT_H	MPU9250.h	105;"	d
+ACCEL_XOUT_L	MPU9250.h	106;"	d
+ACCEL_YOUT_H	MPU9250.h	107;"	d
+ACCEL_YOUT_L	MPU9250.h	108;"	d
+ACCEL_ZOUT_H	MPU9250.h	109;"	d
+ACCEL_ZOUT_L	MPU9250.h	110;"	d
+ADO	MPU9250.h	172;"	d
+AFS_16G	MPU9250.h	/^      AFS_16G$/;"	e	enum:MPU9250::Ascale
+AFS_2G	MPU9250.h	/^      AFS_2G = 0,$/;"	e	enum:MPU9250::Ascale
+AFS_4G	MPU9250.h	/^      AFS_4G,$/;"	e	enum:MPU9250::Ascale
+AFS_8G	MPU9250.h	/^      AFS_8G,$/;"	e	enum:MPU9250::Ascale
+AK8963_ADDRESS	MPU9250.h	177;"	d
+AK8963_ADDRESS	MPU9250.h	20;"	d
+AK8963_ASAX	MPU9250.h	34;"	d
+AK8963_ASAY	MPU9250.h	35;"	d
+AK8963_ASAZ	MPU9250.h	36;"	d
+AK8963_ASTC	MPU9250.h	32;"	d
+AK8963_CNTL	MPU9250.h	31;"	d
+AK8963_I2CDIS	MPU9250.h	33;"	d
+AK8963_ST1	MPU9250.h	23;"	d
+AK8963_ST2	MPU9250.h	30;"	d
+AK8963_XOUT_H	MPU9250.h	25;"	d
+AK8963_XOUT_L	MPU9250.h	24;"	d
+AK8963_YOUT_H	MPU9250.h	27;"	d
+AK8963_YOUT_L	MPU9250.h	26;"	d
+AK8963_ZOUT_H	MPU9250.h	29;"	d
+AK8963_ZOUT_L	MPU9250.h	28;"	d
+Ascale	MPU9250.h	/^    enum Ascale {$/;"	g	class:MPU9250
+Ascale	MPU9250.h	/^    uint8_t Ascale = AFS_2G;$/;"	m	class:MPU9250
+CONFIG	MPU9250.h	65;"	d
+DMP_BANK	MPU9250.h	154;"	d
+DMP_INT_STATUS	MPU9250.h	103;"	d
+DMP_REG	MPU9250.h	156;"	d
+DMP_REG_1	MPU9250.h	157;"	d
+DMP_REG_2	MPU9250.h	158;"	d
+DMP_RW_PNT	MPU9250.h	155;"	d
+EXT_SENS_DATA_00	MPU9250.h	119;"	d
+EXT_SENS_DATA_01	MPU9250.h	120;"	d
+EXT_SENS_DATA_02	MPU9250.h	121;"	d
+EXT_SENS_DATA_03	MPU9250.h	122;"	d
+EXT_SENS_DATA_04	MPU9250.h	123;"	d
+EXT_SENS_DATA_05	MPU9250.h	124;"	d
+EXT_SENS_DATA_06	MPU9250.h	125;"	d
+EXT_SENS_DATA_07	MPU9250.h	126;"	d
+EXT_SENS_DATA_08	MPU9250.h	127;"	d
+EXT_SENS_DATA_09	MPU9250.h	128;"	d
+EXT_SENS_DATA_10	MPU9250.h	129;"	d
+EXT_SENS_DATA_11	MPU9250.h	130;"	d
+EXT_SENS_DATA_12	MPU9250.h	131;"	d
+EXT_SENS_DATA_13	MPU9250.h	132;"	d
+EXT_SENS_DATA_14	MPU9250.h	133;"	d
+EXT_SENS_DATA_15	MPU9250.h	134;"	d
+EXT_SENS_DATA_16	MPU9250.h	135;"	d
+EXT_SENS_DATA_17	MPU9250.h	136;"	d
+EXT_SENS_DATA_18	MPU9250.h	137;"	d
+EXT_SENS_DATA_19	MPU9250.h	138;"	d
+EXT_SENS_DATA_20	MPU9250.h	139;"	d
+EXT_SENS_DATA_21	MPU9250.h	140;"	d
+EXT_SENS_DATA_22	MPU9250.h	141;"	d
+EXT_SENS_DATA_23	MPU9250.h	142;"	d
+FIFO_COUNTH	MPU9250.h	159;"	d
+FIFO_COUNTL	MPU9250.h	160;"	d
+FIFO_EN	MPU9250.h	81;"	d
+FIFO_R_W	MPU9250.h	161;"	d
+GFS_1000DPS	MPU9250.h	/^      GFS_1000DPS,$/;"	e	enum:MPU9250::Gscale
+GFS_2000DPS	MPU9250.h	/^      GFS_2000DPS$/;"	e	enum:MPU9250::Gscale
+GFS_250DPS	MPU9250.h	/^      GFS_250DPS = 0,$/;"	e	enum:MPU9250::Gscale
+GFS_500DPS	MPU9250.h	/^      GFS_500DPS,$/;"	e	enum:MPU9250::Gscale
+GYRO_CONFIG	MPU9250.h	66;"	d
+GYRO_XOUT_H	MPU9250.h	113;"	d
+GYRO_XOUT_L	MPU9250.h	114;"	d
+GYRO_YOUT_H	MPU9250.h	115;"	d
+GYRO_YOUT_L	MPU9250.h	116;"	d
+GYRO_ZOUT_H	MPU9250.h	117;"	d
+GYRO_ZOUT_L	MPU9250.h	118;"	d
+Gscale	MPU9250.h	/^    enum Gscale {$/;"	g	class:MPU9250
+Gscale	MPU9250.h	/^    uint8_t Gscale = GFS_250DPS;$/;"	m	class:MPU9250
+GyroMeasDrift	quaternionFilters.cpp	/^static float GyroMeasDrift = PI * (0.0f  \/ 180.0f);$/;"	v	file:
+GyroMeasError	quaternionFilters.cpp	/^static float GyroMeasError = PI * (40.0f \/ 180.0f);$/;"	v	file:
+I2C_MST_CTRL	MPU9250.h	82;"	d
+I2C_MST_DELAY_CTRL	MPU9250.h	148;"	d
+I2C_MST_STATUS	MPU9250.h	100;"	d
+I2C_SLV0_ADDR	MPU9250.h	83;"	d
+I2C_SLV0_CTRL	MPU9250.h	85;"	d
+I2C_SLV0_DO	MPU9250.h	144;"	d
+I2C_SLV0_REG	MPU9250.h	84;"	d
+I2C_SLV1_ADDR	MPU9250.h	86;"	d
+I2C_SLV1_CTRL	MPU9250.h	88;"	d
+I2C_SLV1_DO	MPU9250.h	145;"	d
+I2C_SLV1_REG	MPU9250.h	87;"	d
+I2C_SLV2_ADDR	MPU9250.h	89;"	d
+I2C_SLV2_CTRL	MPU9250.h	91;"	d
+I2C_SLV2_DO	MPU9250.h	146;"	d
+I2C_SLV2_REG	MPU9250.h	90;"	d
+I2C_SLV3_ADDR	MPU9250.h	92;"	d
+I2C_SLV3_CTRL	MPU9250.h	94;"	d
+I2C_SLV3_DO	MPU9250.h	147;"	d
+I2C_SLV3_REG	MPU9250.h	93;"	d
+I2C_SLV4_ADDR	MPU9250.h	95;"	d
+I2C_SLV4_CTRL	MPU9250.h	98;"	d
+I2C_SLV4_DI	MPU9250.h	99;"	d
+I2C_SLV4_DO	MPU9250.h	97;"	d
+I2C_SLV4_REG	MPU9250.h	96;"	d
+INFO	MPU9250.h	22;"	d
+INT_ENABLE	MPU9250.h	102;"	d
+INT_PIN_CFG	MPU9250.h	101;"	d
+INT_STATUS	MPU9250.h	104;"	d
+Ki	quaternionFilters.cpp	17;"	d	file:
+Kp	quaternionFilters.cpp	16;"	d	file:
+LP_ACCEL_ODR	MPU9250.h	69;"	d
+MFS_14BITS	MPU9250.h	/^      MFS_14BITS = 0, \/\/ 0.6 mG per LSB$/;"	e	enum:MPU9250::Mscale
+MFS_16BITS	MPU9250.h	/^      MFS_16BITS      \/\/ 0.15 mG per LSB$/;"	e	enum:MPU9250::Mscale
+MOT_DETECT_CTRL	MPU9250.h	150;"	d
+MOT_DETECT_STATUS	MPU9250.h	143;"	d
+MOT_DUR	MPU9250.h	74;"	d
+MPU9250	MPU9250.h	/^class MPU9250$/;"	c
+MPU9250SelfTest	MPU9250.cpp	/^void MPU9250::MPU9250SelfTest(float * destination) \/\/ Should return percent deviation from factory trim values, +\/- 14 or less deviation is a pass$/;"	f	class:MPU9250
+MPU9250_ADDRESS	MPU9250.h	174;"	d
+MPU9250_ADDRESS	MPU9250.h	176;"	d
+MadgwickQuaternionUpdate	quaternionFilters.cpp	/^void MadgwickQuaternionUpdate(float ax, float ay, float az, float gx, float gy, float gz, float mx, float my, float mz, float deltat)$/;"	f
+MahonyQuaternionUpdate	quaternionFilters.cpp	/^void MahonyQuaternionUpdate(float ax, float ay, float az, float gx, float gy, float gz, float mx, float my, float mz, float deltat)$/;"	f
+Mmode	MPU9250.h	/^    uint8_t Mmode = 0x02;$/;"	m	class:MPU9250
+Mscale	MPU9250.h	/^    enum Mscale {$/;"	g	class:MPU9250
+Mscale	MPU9250.h	/^    uint8_t Mscale = MFS_16BITS;$/;"	m	class:MPU9250
+Now	MPU9250.h	/^    uint32_t Now = 0;        \/\/ used to calculate integration interval$/;"	m	class:MPU9250
+PWR_MGMT_1	MPU9250.h	152;"	d
+PWR_MGMT_2	MPU9250.h	153;"	d
+SELF_TEST_A	MPU9250.h	56;"	d
+SELF_TEST_X_ACCEL	MPU9250.h	52;"	d
+SELF_TEST_X_GYRO	MPU9250.h	38;"	d
+SELF_TEST_Y_ACCEL	MPU9250.h	53;"	d
+SELF_TEST_Y_GYRO	MPU9250.h	39;"	d
+SELF_TEST_Z_ACCEL	MPU9250.h	54;"	d
+SELF_TEST_Z_GYRO	MPU9250.h	40;"	d
+SIGNAL_PATH_RESET	MPU9250.h	149;"	d
+SMPLRT_DIV	MPU9250.h	64;"	d
+SelfTest	MPU9250.h	/^    float SelfTest[6];$/;"	m	class:MPU9250
+TEMP_OUT_H	MPU9250.h	111;"	d
+TEMP_OUT_L	MPU9250.h	112;"	d
+USER_CTRL	MPU9250.h	151;"	d
+WHO_AM_I_AK8963	MPU9250.h	21;"	d
+WHO_AM_I_MPU9250	MPU9250.h	162;"	d
+WOM_THR	MPU9250.h	70;"	d
+XA_OFFSET_H	MPU9250.h	163;"	d
+XA_OFFSET_L	MPU9250.h	164;"	d
+XG_OFFSET_H	MPU9250.h	58;"	d
+XG_OFFSET_L	MPU9250.h	59;"	d
+YA_OFFSET_H	MPU9250.h	165;"	d
+YA_OFFSET_L	MPU9250.h	166;"	d
+YG_OFFSET_H	MPU9250.h	60;"	d
+YG_OFFSET_L	MPU9250.h	61;"	d
+ZA_OFFSET_H	MPU9250.h	167;"	d
+ZA_OFFSET_L	MPU9250.h	168;"	d
+ZG_OFFSET_H	MPU9250.h	62;"	d
+ZG_OFFSET_L	MPU9250.h	63;"	d
+ZMOT_THR	MPU9250.h	76;"	d
+ZRMOT_DUR	MPU9250.h	79;"	d
+_MPU9250_H_	MPU9250.h	9;"	d
+_QUATERNIONFILTERS_H_	quaternionFilters.h	2;"	d
+aRes	MPU9250.h	/^    float aRes, gRes, mRes;$/;"	m	class:MPU9250
+accelBias	MPU9250.h	/^    float gyroBias[3] = {0, 0, 0}, accelBias[3] = {0, 0, 0};$/;"	m	class:MPU9250
+accelCount	MPU9250.h	/^    int16_t accelCount[3];$/;"	m	class:MPU9250
+ax	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+ay	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+az	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+beta	quaternionFilters.cpp	/^static float beta = sqrt(3.0f \/ 4.0f) * GyroMeasError;   \/\/ Compute beta$/;"	v	file:
+calibrateMPU9250	MPU9250.cpp	/^void MPU9250::calibrateMPU9250(float * gyroBias, float * accelBias)$/;"	f	class:MPU9250
+count	MPU9250.h	/^    uint32_t count = 0, sumCount = 0; \/\/ used to control display output rate$/;"	m	class:MPU9250
+delt_t	MPU9250.h	/^    uint32_t delt_t = 0; \/\/ Used to control display output rate$/;"	m	class:MPU9250
+deltat	MPU9250.h	/^    float deltat = 0.0f, sum = 0.0f;  \/\/ integration interval for both filter schemes$/;"	m	class:MPU9250
+eInt	quaternionFilters.cpp	/^static float eInt[3] = {0.0f, 0.0f, 0.0f};$/;"	v	file:
+firstUpdate	MPU9250.h	/^    uint32_t lastUpdate = 0, firstUpdate = 0; \/\/ used to calculate integration interval$/;"	m	class:MPU9250
+gRes	MPU9250.h	/^    float aRes, gRes, mRes;$/;"	m	class:MPU9250
+getAres	MPU9250.cpp	/^void MPU9250::getAres() {$/;"	f	class:MPU9250
+getGres	MPU9250.cpp	/^void MPU9250::getGres() {$/;"	f	class:MPU9250
+getMres	MPU9250.cpp	/^void MPU9250::getMres() {$/;"	f	class:MPU9250
+getQ	quaternionFilters.cpp	/^const float * getQ () { return q; }$/;"	f
+gx	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+gy	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+gyroBias	MPU9250.h	/^    float gyroBias[3] = {0, 0, 0}, accelBias[3] = {0, 0, 0};$/;"	m	class:MPU9250
+gyroCount	MPU9250.h	/^    int16_t gyroCount[3];   \/\/ Stores the 16-bit signed gyro sensor output$/;"	m	class:MPU9250
+gz	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+initAK8963	MPU9250.cpp	/^void MPU9250::initAK8963(float * destination)$/;"	f	class:MPU9250
+initMPU9250	MPU9250.cpp	/^void MPU9250::initMPU9250()$/;"	f	class:MPU9250
+lastUpdate	MPU9250.h	/^    uint32_t lastUpdate = 0, firstUpdate = 0; \/\/ used to calculate integration interval$/;"	m	class:MPU9250
+mRes	MPU9250.h	/^    float aRes, gRes, mRes;$/;"	m	class:MPU9250
+magCalibration	MPU9250.h	/^    float magCalibration[3] = {0, 0, 0}, magbias[3] = {0, 0, 0};$/;"	m	class:MPU9250
+magCount	MPU9250.h	/^    int16_t magCount[3];    \/\/ Stores the 16-bit signed magnetometer sensor output$/;"	m	class:MPU9250
+magbias	MPU9250.h	/^    float magCalibration[3] = {0, 0, 0}, magbias[3] = {0, 0, 0};$/;"	m	class:MPU9250
+mx	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+my	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+mz	MPU9250.h	/^    float ax, ay, az, gx, gy, gz, mx, my, mz;$/;"	m	class:MPU9250
+pitch	MPU9250.h	/^    float pitch, yaw, roll;$/;"	m	class:MPU9250
+q	quaternionFilters.cpp	/^static float q[4] = {1.0f, 0.0f, 0.0f, 0.0f};$/;"	v	file:
+readAccelData	MPU9250.cpp	/^void MPU9250::readAccelData(int16_t * destination)$/;"	f	class:MPU9250
+readByte	MPU9250.cpp	/^uint8_t MPU9250::readByte(uint8_t address, uint8_t subAddress)$/;"	f	class:MPU9250
+readBytes	MPU9250.cpp	/^void MPU9250::readBytes(uint8_t address, uint8_t subAddress, uint8_t count,$/;"	f	class:MPU9250
+readGyroData	MPU9250.cpp	/^void MPU9250::readGyroData(int16_t * destination)$/;"	f	class:MPU9250
+readMagData	MPU9250.cpp	/^void MPU9250::readMagData(int16_t * destination)$/;"	f	class:MPU9250
+readTempData	MPU9250.cpp	/^int16_t MPU9250::readTempData()$/;"	f	class:MPU9250
+roll	MPU9250.h	/^    float pitch, yaw, roll;$/;"	m	class:MPU9250
+sum	MPU9250.h	/^    float deltat = 0.0f, sum = 0.0f;  \/\/ integration interval for both filter schemes$/;"	m	class:MPU9250
+sumCount	MPU9250.h	/^    uint32_t count = 0, sumCount = 0; \/\/ used to control display output rate$/;"	m	class:MPU9250
+tempCount	MPU9250.h	/^    int16_t tempCount;   \/\/ Temperature raw count output$/;"	m	class:MPU9250
+temperature	MPU9250.h	/^    float temperature;   \/\/ Stores the real internal chip temperature in Celsius$/;"	m	class:MPU9250
+updateTime	MPU9250.cpp	/^void MPU9250::updateTime()$/;"	f	class:MPU9250
+writeByte	MPU9250.cpp	/^void MPU9250::writeByte(uint8_t address, uint8_t subAddress, uint8_t data)$/;"	f	class:MPU9250
+yaw	MPU9250.h	/^    float pitch, yaw, roll;$/;"	m	class:MPU9250
+zeta	quaternionFilters.cpp	/^static float zeta = sqrt(3.0f \/ 4.0f) * GyroMeasDrift;$/;"	v	file:

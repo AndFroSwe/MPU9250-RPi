@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdint>
 #include <wiringPi.h>
 #include <wiringPiI2C.h>
 #include <MPU9250.h>
@@ -10,6 +11,8 @@
 using namespace std;
 
 int main(int argc, char** argv) {
+    MPU9250 myIMU;
+
     cout << "Starting program..." << endl;
     cout << "Connecting to IMU..." << endl;
     
@@ -19,7 +22,8 @@ int main(int argc, char** argv) {
         return -1;
     }
     // Read who am i register as a test
-    int me = wiringPiI2CReadReg8(fd, WHO_AM_I);
+    uint16_t me = myIMU.readByte(fd, WHO_AM_I);
+    //uint16_t me = wiringPiI2CReadReg8(fd, WHO_AM_I);
     cout << "I am: " << me << endl;
     cout << "I should be: " <<  0x71 << endl;
 
